@@ -305,4 +305,4 @@ The following HTTP status codes were observed during testing:
 
 The backend API source code is available from my personal GitHub repository:
 
-**GitHub Repository:** [ADD YOUR GITHUB REPOSITORY LINK HERE]
+**GitHub Repository:** https://github.com/Kau-Tshepo/INSY7314-ICE-Task-2
